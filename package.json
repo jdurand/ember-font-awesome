@@ -54,6 +54,8 @@
     "ember-source": "~2.18.0",
     "eslint-plugin-ember": "^5.0.0",
     "eslint-plugin-node": "^5.2.1",
+    "@glimmer/compiler": "^0.35.1",
+    "@glimmer/syntax": "^0.35.1",
     "loader.js": "^4.2.3"
   },
   "engines": {
